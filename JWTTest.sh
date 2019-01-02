@@ -1,0 +1,3 @@
+export CONSUMER_KEY=3MVG9fTLmJ60pJ5LGJrkfTZZsUa4Nb33udtjC00McsqBLd3_JiwAO42qHuragEjViJaN7EXRreZCUJLs9h7ax
+export JWT_KEY_FILE=/Users/caldama/SalesforceDX/certificates/server.key
+export HUB_USERNAME=caldama@curious-moose-kj5def.com
